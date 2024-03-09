@@ -1,0 +1,33 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore virtual environment directories
+venv/
+env/
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore log files
+*.log
+
+# Ignore configuration files with sensitive data
+config.ini
+config.json
+
+# Ignore dependency directories
+node_modules/
